@@ -20,7 +20,7 @@ e "test" , compostos por resenhas (reviews) retiras do site da IMDB - https://ww
 
 https://colab.research.google.com/drive/1plILnuSdjKoY3zOmPn_lmJDpGDFBzDho?usp=sharing
 
-No notebook está o código de um pipeline de NLP, com classididor RandomForest, com avaliação na base de test, duas aplicações como 
+No notebook está o código de um pipeline de NLP, com classificador RandomForest, com avaliação na base de test, duas aplicações como 
 Sumarização de conteúdo e Recuperação de conteúdo(query de documentos), vistas em sala de aula.
 
 Conjunto de dados
