@@ -4,11 +4,13 @@
 
 ## Overview
 
-Este conjunto de dados contém resenhas(reviews) de filmes, junto com suas características binárias,
-associadas à rótulos de polaridade de sentimento. Destina-se a servir de referência para
-classificação de sentimentos. Este documento descreve como o conjunto de dados foi
-reunidos e como usar os arquivos fornecidos., organizados e postados em meu github (Ricardojnf33-https://github.com/Ricardojnf33/NLP_Pipline_ACL_IMDB_sentiment_analyses). 
-Os dados estão divididos em dois conjuntos: "train" e "test" e é composto por resenhas (reviews) retiras do site da IMDB - 
+Foi solicitado como projeto de conclusão da cadeira de Mineração de Texto da Pós-graduação de engenharia e análise de dados na Cesar Scholl, 
+uma implementação de um Pipeline de NLP (Natural Linguistic Processing), desenvolvendo um modelo de classificação e duas aplicações vistas em sala
+de aula, em um conjunto de dados indicado pelo professor, conténdo resenhas(reviews) de filmes junto com suas características binárias, associadas 
+à rótulos de polaridade de sentimento. Destina-se a servir de referência para classificação de sentimentos. 
+Este documento descreve como o conjunto de dados foi reunidos e como usar os arquivos fornecidos., organizados e postados em meu 
+github (Ricardojnf33-https://github.com/Ricardojnf33/NLP_Pipline_ACL_IMDB_sentiment_analyses). Os dados estão divididos em dois conjuntos: "train" 
+e "test" , compostos por resenhas (reviews) retiras do site da IMDB - https://www.imdb.com/
 
 ## Dependencies
 
@@ -17,6 +19,9 @@ Os dados estão divididos em dois conjuntos: "train" e "test" e é composto por 
 ## Notebook
 
 https://colab.research.google.com/drive/1plILnuSdjKoY3zOmPn_lmJDpGDFBzDho?usp=sharing
+
+No notebook está o código de um pipeline de NLP, com classididor RandomForest, com avaliação na base de test, duas aplicações como 
+Sumarização de conteúdo e Recuperação de conteúdo(query de documentos), vistas em sala de aula.
 
 Conjunto de dados
 
