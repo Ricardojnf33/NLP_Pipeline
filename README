@@ -10,7 +10,7 @@ de aula, em um conjunto de dados indicado pelo professor, conténdo resenhas(rev
 à rótulos de polaridade de sentimento. Destina-se a servir de referência para classificação de sentimentos. 
 Este documento descreve como o conjunto de dados foi reunidos e como usar os arquivos fornecidos., organizados e postados em meu 
 github (Ricardojnf33-https://github.com/Ricardojnf33/NLP_Pipline_ACL_IMDB_sentiment_analyses). Os dados estão divididos em dois conjuntos: "train" 
-e "test" , compostos por resenhas (reviews) retiras do site da IMDB - https://www.imdb.com/
+e "test" , compostos por resenhas (reviews) retiradas do site da IMDB - https://www.imdb.com/
 
 ## Dependencies
 
